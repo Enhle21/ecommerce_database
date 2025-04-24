@@ -11,7 +11,7 @@ and the code to link the tables together with foreign keys.
 ---------------------------------------------------------------
 -`ecommerceDB.sql`  -  Creates all the tables for the online store   
  -`foreign_keys.sql` -  Adds the links (foreign keys) between tables  
--`ecommerce-erd.png` -  A picture that shows how the tables are linked
+-`ecommerce_erd.drawio` -  A picture that shows how the tables are linked
 
 DATABASE NAME: e'commerce database
 
